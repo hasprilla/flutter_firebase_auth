@@ -1,0 +1,154 @@
+{
+  "project_info": {
+    "project_number": "931837864907",
+    "project_id": "repacuin",
+    "storage_bucket": "repacuin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931837864907:android:b737372d6477d0c5c3244e",
+        "android_client_info": {
+          "package_name": "app.ingcontlhsas.flutter_firebase_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931837864907-ri41618760gqa90i5aghjrpu1ihdcv2c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgE-ZR6YVIXfXNPJYgVHWFiR8EvxDku1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931837864907-ri41618760gqa90i5aghjrpu1ihdcv2c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "931837864907-125rlfe2dkmegsgcb45t6t0arjttbt6i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.repacuin.repacuin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931837864907:android:cbc110b6c9b60d57c3244e",
+        "android_client_info": {
+          "package_name": "com.example.flutter_clean_architecture_with_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931837864907-ri41618760gqa90i5aghjrpu1ihdcv2c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgE-ZR6YVIXfXNPJYgVHWFiR8EvxDku1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931837864907-ri41618760gqa90i5aghjrpu1ihdcv2c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "931837864907-125rlfe2dkmegsgcb45t6t0arjttbt6i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.repacuin.repacuin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931837864907:android:e2aa3f830a597e77c3244e",
+        "android_client_info": {
+          "package_name": "com.repacuin.repacuin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931837864907-ri41618760gqa90i5aghjrpu1ihdcv2c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgE-ZR6YVIXfXNPJYgVHWFiR8EvxDku1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931837864907-ri41618760gqa90i5aghjrpu1ihdcv2c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "931837864907-125rlfe2dkmegsgcb45t6t0arjttbt6i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.repacuin.repacuin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931837864907:android:1875baf63f974dddc3244e",
+        "android_client_info": {
+          "package_name": "com.thengoding.chatting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931837864907-ri41618760gqa90i5aghjrpu1ihdcv2c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgE-ZR6YVIXfXNPJYgVHWFiR8EvxDku1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931837864907-ri41618760gqa90i5aghjrpu1ihdcv2c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "931837864907-125rlfe2dkmegsgcb45t6t0arjttbt6i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.repacuin.repacuin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
